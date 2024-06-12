@@ -1,3 +1,4 @@
+// this is the stack in DSA
 public class StackInDsa {
    
         public static void main(String[] args) {
